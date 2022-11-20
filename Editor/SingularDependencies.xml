@@ -1,0 +1,8 @@
+<dependencies>
+	<androidPackages>
+		<repositories>
+			<repository>https://maven.singular.net/</repository>
+		</repositories>
+		<androidPackage spec="com.singular.sdk:singular_sdk:12.0.8"></androidPackage>
+	</androidPackages>
+</dependencies>
