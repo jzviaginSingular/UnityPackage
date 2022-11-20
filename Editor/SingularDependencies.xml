@@ -5,4 +5,8 @@
 		</repositories>
 		<androidPackage spec="com.singular.sdk:singular_sdk:12.0.8"></androidPackage>
 	</androidPackages>
+	<iosPods>
+    <iosPod name="Singular-SDK" version="~> 12.0.0" bitcodeEnabled="false"
+            minTargetSdk="6.0" addToAllTargets="false" />
+  	</iosPods>
 </dependencies>
