@@ -21,9 +21,9 @@
     },
     "samples": [
       {
-        "displayName": "Native Keyboard",
-        "description": "Demonstration for android virtual keyboard events.",
-        "path": "Samples/NativeKeyboard"
+        "displayName": "SingularUnitySDKApp",
+        "description": "Singular sample app",
+        "path": "Samples/SingularUnitySDKApp"
       }
     ]
   }
