@@ -1,0 +1,29 @@
+{
+    "name": "com.singular.sdk",
+    "version": "1.0.0",
+    "displayName": "Singular Unity SDK",
+    "description": "Singular Unity SDK",
+    "unity": "2019.4",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "author": {
+      "name": "Singular Labs",
+      "email": "vadimskyigd@singular.net",
+      "url": "https://singular.net"
+    },
+    "dependencies": {
+
+        "com.unity.nuget.newtonsoft-json":"3.0.2",
+        "com.unity.purchasing": "4.1.2"
+
+
+    },
+    "samples": [
+      {
+        "displayName": "SingularUnitySDKApp",
+        "description": "Singular sample app",
+        "path": "Samples~/SingularUnitySDKApp"
+      }
+    ]
+  }

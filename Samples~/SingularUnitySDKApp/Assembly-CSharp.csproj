@@ -234,7 +234,7 @@
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.36f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.36f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -600,62 +600,61 @@
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.36f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing.Stores">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.Stores.dll</HintPath>
- </Reference>
- <Reference Include="Purchasing.Common">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Purchasing.Common.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.Purchasing">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing.Codeless">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.Codeless.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing.SecurityCore">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityCore.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing.SecurityStub">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityStub.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing.Stores">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.Stores.dll</HintPath>
+ </Reference>
+ <Reference Include="Purchasing.Common">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Purchasing.Common.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Purchasing">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing.Codeless">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.Codeless.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing.SecurityCore">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityCore.dll</HintPath>
+ </Reference>
+ <Reference Include="Singular.SDK">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/Singular.SDK.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing.SecurityStub">
+ <HintPath>/Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityStub.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Singular.SDK.csproj">
-      <Project>{EA745241-FDA1-24F0-3ADE-448129D92ECC}</Project>
-      <Name>Singular.SDK</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
