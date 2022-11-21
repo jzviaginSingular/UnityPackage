@@ -23,7 +23,7 @@
       {
         "displayName": "SingularUnitySDKApp",
         "description": "Singular sample app",
-        "path": "Samples/SingularUnitySDKApp"
+        "path": "Samples~/SingularUnitySDKApp"
       }
     ]
   }
