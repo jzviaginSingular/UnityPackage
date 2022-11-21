@@ -1,13 +1,14 @@
 {
   "dependencies": {
     "com.singular.sdk": {
-      "version": "file:/Users/jacobzviagin/code/UnityPackage",
+      "version": "https://github.com/jzviaginSingular/UnityPackage.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2",
         "com.unity.purchasing": "4.1.2"
-      }
+      },
+      "hash": "e678e059d9295f61e633c4f812d45d46df78abeb"
     },
     "com.unity.collab-proxy": {
       "version": "1.14.12",
