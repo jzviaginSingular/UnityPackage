@@ -10,7 +10,7 @@ using System.Threading;
 using Newtonsoft.Json;
 using System;
 
-#if UNITY_5_3_OR_NEWER
+#if UNITY_5_3_OR_NEWER && UNITY_PURCHASING
 using UnityEngine.Purchasing;
 #endif
 
@@ -979,7 +979,7 @@ public class SingularSDK : MonoBehaviour {
         return null;
     }
 
-#if UNITY_5_3_OR_NEWER
+#if UNITY_5_3_OR_NEWER && UNITY_PURCHASING
 
     public static void InAppPurchase(IEnumerable<Product> products, Dictionary<string, object> attributes, bool isRestored = false) {
         InAppPurchase("__iap__", products, attributes, isRestored);
