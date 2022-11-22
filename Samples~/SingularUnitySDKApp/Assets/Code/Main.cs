@@ -36,7 +36,7 @@ public class Main :  MonoBehaviour, SingularDeferredDeepLinkHandler, SingularLin
 
     public PurchaseProcessingResult ProcessPurchase (PurchaseEventArgs e)
     {
-		#if UNITY_5_3_OR_NEWER && UNITY_PURCHASING
+		#if UNITY_5_3_OR_NEWER
 		SingularSDK.InAppPurchase( e.purchasedProduct, new Dictionary<string, object>() { ["my_atr"] = "attribute" },false);
 		#endif
         return PurchaseProcessingResult.Complete;
@@ -151,7 +151,7 @@ public class Main :  MonoBehaviour, SingularDeferredDeepLinkHandler, SingularLin
 
     private void SendInAppPurchase() {
         var product = BuildProduct();
-		#if UNITY_5_3_OR_NEWER && UNITY_PURCHASING
+		#if UNITY_5_3_OR_NEWER
         SingularSDK.InAppPurchase("my_purchase", product, new Dictionary<string, object>() { ["my_atr"] = "attribute" });
 		#endif
 	}
