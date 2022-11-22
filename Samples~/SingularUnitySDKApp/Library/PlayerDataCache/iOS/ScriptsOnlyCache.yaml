@@ -4,8 +4,6 @@ ScriptsOnlyBuild:
     - Main
     Singular.SDK.dll:
     - Singular.SDK.SingularSDK
-    Unity.PlasticSCM.Editor.dll:
-    - Unity.PlasticSCM.Editor.PlasticWindow
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -53,23 +51,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11398}
+      Script: {instanceID: 11450}
     - Class: 114
-      Script: {instanceID: 11684}
+      Script: {instanceID: 11752}
     - Class: 114
-      Script: {instanceID: 11736}
+      Script: {instanceID: 11804}
     - Class: 114
-      Script: {instanceID: 12336}
+      Script: {instanceID: 12436}
     - Class: 114
-      Script: {instanceID: 12390}
+      Script: {instanceID: 12494}
     - Class: 114
-      Script: {instanceID: 13132}
+      Script: {instanceID: 13260}
     - Class: 114
-      Script: {instanceID: 13988}
+      Script: {instanceID: 13596}
     - Class: 114
-      Script: {instanceID: 14612}
+      Script: {instanceID: 14142}
     - Class: 114
-      Script: {instanceID: 15556}
+      Script: {instanceID: 14788}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -363,6 +361,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: fe2f99993a553495859196d44660bff5
+    assemblyName: Singular.SDK.dll
+    namespaceName: Singular.SDK
+    className: SingularSDK
+  - hash:
+      serializedVersion: 2
       Hash: f64fd37da5cb89243ec68b5026d70bb8
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -553,19 +557,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 8f3e97465248ad1b523e6d38e0c9f3f0
-    assemblyName: Singular.SDK.dll
-    namespaceName: 
-    className: TextTest
-  - hash:
-      serializedVersion: 2
-      Hash: fe2f99993a553495859196d44660bff5
-    assemblyName: Singular.SDK.dll
-    namespaceName: Singular.SDK
-    className: SingularSDK
   platform: 9
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: /Users/jacobzviagin/code/unity-package/SingularUnitySDKApp/ios3
+  playerPath: /Users/jacobzviagin/code/UnityPackage/Samples~/SingularUnitySDKApp/ios
