@@ -1,3 +1,6 @@
 {
-    "name":"Singular.SDK"
+    "name":"Singular.SDK",
+    "references": [
+        "UnityEngine.Purchasing"
+    ]
 }
